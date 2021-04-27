@@ -39,7 +39,7 @@
     "morgan": "1.9.1",
     "nodemailer": "^6.4.6",
     "pg": "7.14.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "reflect-metadata": "^0.1.13",
     "ts-node-dev": "^1.0.0-pre.44",
     "type-graphql": "^0.17.6",
